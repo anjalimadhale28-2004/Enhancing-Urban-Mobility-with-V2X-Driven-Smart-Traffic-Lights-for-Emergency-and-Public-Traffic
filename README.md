@@ -1,0 +1,2 @@
+# Enhancing-Urban-Mobility-with-V2X-Driven-Smart-Traffic-Lights-for-Emergency-and-Public-Traffic
+Developed an intelligent V2X-based traffic light system that prioritizes emergency vehicles. An ESP32-CAM detected emergency vehicles in real time and sent alerts to a Raspberry Pi, which adjusted traffic signals and activated buzzer warnings. The system was simulated in SUMO using TraCI, reducing emergency vehicle waiting time.
